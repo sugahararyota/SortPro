@@ -25,7 +25,7 @@ namespace SortAlgorithm.ShakerSortFail
             int count2 = 0;
             while (true)
             {
-                bool swap = false;
+                bool swapFlag = false;
                 count2++;
                 for (int i = startCount; i < numList.Count() - endCount; i++)
                 {
@@ -33,11 +33,11 @@ namespace SortAlgorithm.ShakerSortFail
                     if (numList[i] > numList[i + 1])
                     {
                         Swap(i, i + 1);
-                        swap = true;
+                        swapFlag = true;
                     }
                 }
 
-                if (!swap)
+                if (!swapFlag)
                 {
                     break;
                 }
@@ -50,12 +50,12 @@ namespace SortAlgorithm.ShakerSortFail
                     if (numList[i - 1] > numList[i])
                     {
                         Swap(i - 1, i);
-                        swap = true;
+                        swapFlag = true;
                     }
                 }
                 startCount++;
 
-                if (!swap)
+                if (!swapFlag)
                 {
                     break;
                 }

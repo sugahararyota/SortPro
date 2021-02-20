@@ -5,3 +5,10 @@ C:\Users\owner\Desktop\プログラム\ソートあるごり\SortAlgorithm\SortA
 C:\Users\owner\Desktop\プログラム\ソートあるごり\SortAlgorithm\SortAlgorithm\obj\Release\SortAlgorithm.exe
 C:\Users\owner\Desktop\プログラム\ソートあるごり\SortAlgorithm\SortAlgorithm\obj\Release\SortAlgorithm.pdb
 C:\Users\owner\Desktop\プログラム\ソートあるごり\SortAlgorithm\SortAlgorithm\obj\Release\SortAlgorithm.csprojAssemblyReference.cache
+C:\Users\K018A1418\Desktop\SortPro\SortAlgorithm\SortAlgorithm\bin\Release\SortAlgorithm.exe.config
+C:\Users\K018A1418\Desktop\SortPro\SortAlgorithm\SortAlgorithm\bin\Release\SortAlgorithm.exe
+C:\Users\K018A1418\Desktop\SortPro\SortAlgorithm\SortAlgorithm\bin\Release\SortAlgorithm.pdb
+C:\Users\K018A1418\Desktop\SortPro\SortAlgorithm\SortAlgorithm\obj\Release\SortAlgorithm.csprojAssemblyReference.cache
+C:\Users\K018A1418\Desktop\SortPro\SortAlgorithm\SortAlgorithm\obj\Release\SortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\K018A1418\Desktop\SortPro\SortAlgorithm\SortAlgorithm\obj\Release\SortAlgorithm.exe
+C:\Users\K018A1418\Desktop\SortPro\SortAlgorithm\SortAlgorithm\obj\Release\SortAlgorithm.pdb

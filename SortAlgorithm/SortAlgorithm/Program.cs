@@ -13,6 +13,7 @@ namespace SortAlgorithm
     {
         static void Main(string[] args)
         {
+            Console.Write("0か1を入力して：");
             int num = int.Parse(Console.ReadLine());
             
             CSVReader reader = new CSVReader();
