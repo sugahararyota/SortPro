@@ -16,7 +16,7 @@ namespace SortAlgorithm
         {
             Encoding enc = Encoding.GetEncoding("Shift_JIS");
             //ファイルを開く
-            StreamReader sr = new StreamReader(@".\Savedata\loto6.txt");
+            StreamReader sr = new StreamReader(@".\Savedata\num.txt");
             List<string> list = new List<string>();
             //ファイルの読み込み
             while (!sr.EndOfStream)
